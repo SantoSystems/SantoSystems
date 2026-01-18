@@ -1,74 +1,86 @@
-# 👨‍💻 SantoSystems
+<h1 align="center">👋 Hola, soy Santo</h1>
 
-🎓 **Estudiante de programación**  
-🚀 En camino a convertirme en desarrollador profesional  
-🎯 **Objetivo:** Conseguir trabajo en el mundo del software
+<p align="center">
+  <strong>Estudiante de programación | Futuro desarrollador Full Stack</strong>
+</p>
 
-> *"El que haga que su vida sea error 404 por los problemas,  
-el software te pondrá a prueba."*
+<p align="center">
+  🚀 Aprendiendo hoy lo que me dará trabajo mañana  
+  <br/>
+  💻 El software te pondrá a prueba, pero rendirse no es una opción  
+</p>
 
 ---
 
 ## 🧠 Sobre mí
 
-- Actualmente aprendiendo **CSS avanzado**
-- Construyendo proyectos **paso a paso**
-- Me enfoco en entender **cómo funcionan las cosas**, no solo en copiarlas
-- Creo en la disciplina más que en la motivación
+- 🎓 Estudiante de programación
+- 🎯 Objetivo: **conseguir trabajo en tecnología**
+- 🧩 Perfil: **creativo, autodidacta y constante**
+- 📈 Estado actual: **en progreso**
+- 🛠️ Enfoque: **Frontend sólido + Backend potente**
+
+> *“Que tu vida no sea un error 404, los problemas son pruebas del sistema.”*
 
 ---
 
-## 🛠️ Tecnologías que uso
+## 🚀 Lenguajes y Tecnologías
 
-### Lenguajes
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
-### Herramientas
-![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,python,cs,cpp&theme=dark" />
+</p>
 
 ---
 
-## 📂 Proyectos
+## 🧰 Herramientas que uso
 
-🚧 **En progreso**  
-Estoy desarrollando proyectos para demostrar mis habilidades en:
-- Diseño web
-- Maquetación avanzada
-- Lógica de programación
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,ps&theme=dark" />
+</p>
 
-*(Pronto habrá repositorios públicos)*
+---
+
+## 📚 Actualmente aprendiendo
+
+- ✅ HTML (estructura real y semántica)
+- ✅ CSS (layout, diseño, responsive)
+- 🔄 JavaScript (lógica y comportamiento)
+- 🔄 Python (backend y automatización)
+- ⏳ C# y C++ (propósito específico)
+- 🎨 CSS avanzado (layouts profesionales)
+
+---
+
+## 🧩 Áreas que dominaré
+
+- 🎨 **Frontend**: diseño, UX/UI, responsive
+- ⚙️ **Backend**: lógica, servidores, APIs
+- 🔗 **APIs**: comunicación entre sistemas
+- 🧱 **Frameworks**: productividad y escalabilidad
+- 🎮 **Extra**: bases para 3D y desarrollo de juegos
 
 ---
 
 ## 📊 Estadísticas de GitHub
 
-![SantoSystems GitHub Stats](https://github-readme-stats.vercel.app/api?username=SantoSystems&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SantoSystems&show_icons=true&theme=tokyonight" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SantoSystems&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 Actualmente aprendiendo
-- CSS avanzado
-- Layouts profesionales
-- Buenas prácticas de desarrollo web
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SantoSystems&theme=tokyonight" />
+</p>
 
 ---
 
-## 🌱 Camino de aprendizaje
+## 🌐 Redes y contacto
 
-- 🌐 Web (HTML, CSS, JS)
-- 🐍 Python
-- 🎮 C# / C++ (bases sólidas)
-- 🎨 Diseño y creatividad
+> *(Se agregarán cuando sea el momento correcto)*
 
 ---
 
-⭐ **Gracias por visitar mi perfil**  
-Si te interesa mi progreso, revisa mis repositorios 👀
+<p align="center">
+  <strong>⚡ Esto recién comienza</strong><br/>
+  Cada línea de código es un paso más.
+</p>
+
