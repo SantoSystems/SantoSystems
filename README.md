@@ -4,7 +4,7 @@
 🚀 En camino a convertirme en desarrollador profesional  
 🎯 **Objetivo:** Conseguir trabajo en el mundo del software
 
-> *"El que haga que su vida no sea error 404 por los problemas,  
+> *"El que haga que su vida sea error 404 por los problemas,  
 el software te pondrá a prueba."*
 
 ---
