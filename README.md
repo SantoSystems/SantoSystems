@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Santiago</h1>
+<h1 align="center">👋🏻 Hola, soy Santiago</h1>
 
 <p align="center">
   <strong>Estudiante de programación | Futuro creador y líder de una de las empresas más innovadoras en tecnología avanzada</strong>
