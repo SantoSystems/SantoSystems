@@ -22,7 +22,7 @@
 - ⚙️ Enfoque: **desarrollo web de alto nivel + sistemas 3D y programación de hardware**
 
 
-> *“no dejes que otros hagas que tu vida no {error 404} , asi como tanpoco dejes que el codigo te domine, dominalo tu.
+> *“no dejes que otros hagas que tu vida no error 404 , asi como tampoco dejes que el codigo te domine, dominalo tu.
 > ---
 
 ## 🚀 Lenguajes y Tecnologías
