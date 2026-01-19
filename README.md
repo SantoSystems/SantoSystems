@@ -1,28 +1,29 @@
-<h1 align="center">👋 Hola, soy Santo</h1>
+<h1 align="center">👋 Hola, soy Santiago</h1>
 
 <p align="center">
-  <strong>Estudiante de programación | Futuro desarrollador Full Stack</strong>
+  <strong>Estudiante de programación | Futuro creador y líder de una de las empresas más innovadoras en tecnología avanzada</strong>
 </p>
 
+
 <p align="center">
-  🚀 Aprendiendo hoy lo que me dará trabajo mañana  
+  🚀 dominando barias areas para ser polimata tanto en ingieneria en softwage como en fisica del movimiento y aeroespacil y algunas 8 areas mas.
   <br/>
-  💻 El software te pondrá a prueba, pero rendirse no es una opción  
+  💻 el software es lo mas abstracto que conoceras como desarrollador dominalo por el sistema
 </p>
 
 ---
 
 ## 🧠 Sobre mí
 
-- 🎓 Estudiante de programación
-- 🎯 Objetivo: **conseguir trabajo en tecnología**
-- 🧩 Perfil: **creativo, autodidacta y constante**
-- 📈 Estado actual: **en progreso**
-- 🛠️ Enfoque: **Frontend sólido + Backend potente**
+- 🎓 Ingeniero en software (en formación)
+- 🎯 Objetivo: **crear proyectos tecnológicos reales, innovadores y de alto impacto**
+- 🧩 Perfil: **persistente con el código, creativo en la resolución de problemas, 100% autodidacta**
+- 📈 Estado actual: **aprendiendo y creciendo constantemente**
+- ⚙️ Enfoque: **desarrollo web de alto nivel + sistemas 3D y programación de hardware**
 
-> *“Que tu vida no sea un error 404, los problemas son pruebas del sistema.”*
 
----
+> *“no dejes que otros hagas que tu vida no {error 404} , asi como tanpoco dejes que el codigo te domine, dominalo tu.
+> ---
 
 ## 🚀 Lenguajes y Tecnologías
 
@@ -36,28 +37,36 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,ps&theme=dark" />
+  <img src="https://icon-icons.com/icons2/264978/PNG/512/chatgpt_logo_logotipo_de_chatgpt_icon_264978.png" width="45" title="ChatGPT"/>
 </p>
 
 ---
 
-## 📚 Actualmente aprendiendo
 
-- ✅ HTML (estructura real y semántica)
-- ✅ CSS (layout, diseño, responsive)
-- 🔄 JavaScript (lógica y comportamiento)
-- 🔄 Python (backend y automatización)
-- ⏳ C# y C++ (propósito específico)
-- 🎨 CSS avanzado (layouts profesionales)
+## 📚 Aprendizaje y Plan de Estudio
+
+### ✅ Dominado
+- HTML: estructura real y semántica
+
+### 🔄 Actualmente aprendiendo
+- CSS avanzado: layouts profesionales, responsive y diseño
+
+### ⏳ Próximamente
+- JavaScript: lógica, interactividad y comportamiento
+- Python: backend, automatización y scripts
+- C# y C++: proyectos específicos y aplicaciones avanzadas
+
 
 ---
 
+
 ## 🧩 Áreas que dominaré
 
-- 🎨 **Frontend**: diseño, UX/UI, responsive
-- ⚙️ **Backend**: lógica, servidores, APIs
-- 🔗 **APIs**: comunicación entre sistemas
-- 🧱 **Frameworks**: productividad y escalabilidad
-- 🎮 **Extra**: bases para 3D y desarrollo de juegos
+- 🎨 **Frontend**: diseño web de alto nivel, experiencia de usuario (UX/UI), sitios responsivos
+- ⚙️ **Backend**: lógica avanzada, servidores, integración con APIs
+- 🔗 **APIs**: conexión eficiente entre sistemas y servicios
+- 🧱 **Frameworks**: productividad, escalabilidad y mantenimiento de proyectos
+- 🎮 **Tecnologías extra**: fundamentos para gráficos 3D, simulación y desarrollo de videojuegos
 
 ---
 
