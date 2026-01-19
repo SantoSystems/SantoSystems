@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  🚀 dominando barias areas para ser polimata tanto en ingieneria en softwage como en fisica del movimiento y aeroespacial.
+  🚀 dominando barias areas para ser polimata tanto en ingeneria en softwage como en fisica del movimiento y aeroespacial.
   <br/>
   💻 el software es lo mas abstracto que conoceras como desarrollador dominalo por el sistema
 </p>
@@ -22,7 +22,8 @@
 - ⚙️ Enfoque: **desarrollo web de alto nivel + sistemas 3D y programación de hardware**
 
 
-> *“no dejes que otros hagas que tu vida no error 404 , asi como tampoco dejes que el codigo te domine, dominalo tu.
+> *“no dejes que otros hagan que tu vida no error 404 , asi como tampoco dejes que el codigo te domine, dominalo tú.>
+
 > ---
 
 ## 🚀 Lenguajes y Tecnologías
@@ -39,9 +40,6 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps&theme=dark" />
   <img src="https://logo-teka.com/wp-content/uploads/2025/06/chatgpt-sign-logo.svg" width="45" title="ChatGPT" />
 </p>
-
-
-
 
 ---
 
