@@ -6,7 +6,7 @@
 
 
 <p align="center">
-  🚀 dominando barias areas para ser polimata tanto en ingieneria en softwage como en fisica del movimiento y aeroespacil y algunas 8 areas mas.
+  🚀 dominando barias areas para ser polimata tanto en ingieneria en softwage como en fisica del movimiento y aeroespacial.
   <br/>
   💻 el software es lo mas abstracto que conoceras como desarrollador dominalo por el sistema
 </p>
