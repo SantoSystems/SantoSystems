@@ -37,8 +37,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,figma,ps&theme=dark" />
-  <img src="https://icon-icons.com/icons2/264978/PNG/512/chatgpt_logo_logotipo_de_chatgpt_icon_264978.png" width="45" title="ChatGPT"/>
+  <img src="https://logo-teka.com/wp-content/uploads/2025/06/chatgpt-sign-logo.svg" width="45" title="ChatGPT" />
 </p>
+
 
 ---
 
