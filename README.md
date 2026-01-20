@@ -38,7 +38,6 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,ps&theme=dark" />
-  <img src="https://logo-teka.com/wp-content/uploads/2025/06/chatgpt-sign-logo.svg" width="45" title="ChatGPT" />
 </p>
 
 ---
